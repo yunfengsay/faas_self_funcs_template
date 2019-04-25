@@ -1,0 +1,1 @@
+# faas_self_funcs_template
