@@ -1,5 +1,6 @@
-export default function hello(ctx, next){
-	ctx.body = 	{
-		"msg": "hello world"
+module.exports = function(ctx, next) {
+	ctx.body = {
+		success: true,
+		msg: 'from message'
 	}
 }
